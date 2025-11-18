@@ -31,19 +31,19 @@ A continuación se presenta el índice de los documentos que componen esta activ
 
 ###  **Índice**
 
-- 👉 [**Git – Creación del repositorio**](git.md)  
+-  [**Git – Creación del repositorio**](git.md)  
   Documentación del proceso de creación del repositorio, configuración inicial, subida de archivos y colaboración.
 
-- 👉 [**GitHub Actions – Creación del WorkFlow**](gitActions.md)  
+-  [**GitHub Actions – Creación del WorkFlow**](gitActions.md)  
   Explicación y funcionamiento del workflow que genera la documentación con MkDocs automáticamente.
 
-- 👉 [**GitHub Pages – Publicación de la documentación**](gitPages.md)  
+-  [**GitHub Pages – Publicación de la documentación**](gitPages.md)  
   Configuración de GitHub Pages y despliegue del sitio estático generado.
 
-- 👉 [**Docker – Contenedor NGINX con la documentación**](docker.md)  
+-  [**Docker – Contenedor NGINX con la documentación**](docker.md)  
   Documentación del proceso de creación, levantamiento y pruebas del contenedor NGINX que sirve la página en local.
 
-- 👉 [**Conclusiones finales**](conclusiones.md)  
+-  [**Conclusiones finales**](conclusiones.md)  
   Reflexiones personales acerca del uso de Git, Docker y SecDevOps.
 
 ---
