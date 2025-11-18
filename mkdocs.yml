@@ -1,4 +1,4 @@
 site_name: PPS – Unidad 0 – Mariollorente
 nav:
   - Home: index.md
-doc_dir: docs
+docs_dir: docs
