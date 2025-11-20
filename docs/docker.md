@@ -54,7 +54,7 @@ De esta forma se obtiene información detallada: puertos, volúmenes, rutas inte
 
 ---
 
-## 5. Detener y eliminar el contenedor (opcional)
+## 5. Detener y eliminar el contenedor (opcional).
 
 ```bash
 docker stop PPSUnidad0-Tarea_Mariollorente
