@@ -17,8 +17,11 @@ git checkout gh-pages
 ---
 
 ## 2. Creación del contenedor NGINX con bind mount
-![captura docker](/img/img14.jpg)
-![captura docker](/img/img15.jpg)
+![captura docker](../img/img14.jpg)
+---
+
+![captura docker](../img/img15.jpg)
+
 - Comando utilizado:
 
 ```bash
@@ -45,7 +48,8 @@ Una vez en ejecución, se puede acceder a la documentación con: http://localhos
 ---
 
 ## 4. Inspección del contenedor
-![captura docker](/img/img16.jpg)
+
+![captura docker](../img/img16.jpg)
 
 ```bash
 docker inspect PPSUnidad0-Tarea_Mariollorente
@@ -70,3 +74,6 @@ Mediante el uso de un bind mount, se logró servir directamente los archivos gen
 En definitiva, este apartado refuerza el aprendizaje sobre Docker y su papel dentro de un entorno DevSecOps, mostrando cómo una herramienta de contenedorización puede integrarse fácilmente en procesos de documentación, despliegue y pruebas locales.
 
 
+
+
+[def]: ../img/img15.jpg
