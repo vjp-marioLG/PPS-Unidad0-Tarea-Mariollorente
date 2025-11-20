@@ -17,6 +17,8 @@ git checkout gh-pages
 ---
 
 ## 2. Creación del contenedor NGINX con bind mount
+![captura repositorio](img/img14.jpg)
+![captura repositorio](img/img15.jpg)
 - Comando utilizado:
 
 ```bash
@@ -43,6 +45,7 @@ Una vez en ejecución, se puede acceder a la documentación con: http://localhos
 ---
 
 ## 4. Inspección del contenedor
+![captura repositorio](img/img16.jpg)
 
 ```bash
 docker inspect PPSUnidad0-Tarea_Mariollorente
