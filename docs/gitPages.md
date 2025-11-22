@@ -6,8 +6,8 @@ Este documento explica cómo se habilitó GitHub Pages para mostrar la documenta
 
 ## 1. Activación de GitHub Pages
 
-![captura-gh-pages](../img/img12.jpg)
-![captura-gh-pages](../img/img13.jpg)
+![captura-gh-pages](img/img12.jpg)
+![captura-gh-pages](img/img13.jpg)
 
 En el repositorio: Settings > Pages:
 
@@ -21,7 +21,7 @@ Tras guardar, GitHub proporciona la URL pública para la documentación:
 
 https://vjp-MarioLG/PPS-Unidad0-Tarea-Mariollorente
 
-![captura-gh-pages](../img/img17.PNG)
+![captura-gh-pages](img/img17.PNG)
 ---
 
 ## 2. Verificación del despliegue
