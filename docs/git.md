@@ -14,6 +14,7 @@ En esta sección se detallan los pasos seguidos para crear y configurar el repos
 5. Añadí un archivo `README.md`.
 6. Creé el repositorio.
 
+![captura git](img/img1.jpg)
 ---
 
 ## 2. Clonación del repositorio en local
@@ -24,11 +25,14 @@ En el terminal cloné el repositorio usando:
 git clone https://github.com/vjp-MarioLG/PPS-Unidad0-Tarea-Mariollorente.git
 cd PPS-Unidad0-Tarea-Tu_nombre
 ```
+![captura git](img/img20.PNG)
+
 ---
 
 ## 3. Añadir al profesor como colaborador
-1. Desde GitHub: Settings > Collaborators > Add collaborator: PPSvjp
+1. Desde GitHub: `Settings > Collaborators > Add collaborator: PPSvjp`
 
+![catura git](img/img2.jpg)
 ---
 
 ## 4. Creación de la estructura base
@@ -42,7 +46,8 @@ mkdir -p calculator
 touch docs/index.md docs/git.md docs/gitActions.md docs/gitPages.md docs/docker.md docs/conclusiones.md
 touch calculator/__init__.py calculator/gui.py
 touch mkdocs.yml requirements.txt
-
+```
+![captura git](img/img3.jpg)
 ---
 
 ## 5. Primer commit y subida al repositorio
