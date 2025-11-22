@@ -45,6 +45,7 @@ nginx → Imagen oficial.
 
 Una vez en ejecución, se puede acceder a la documentación con: http://localhost:8085
 
+![captura docker](img/img18.PNG)
 ---
 
 ## 4. Inspección del contenedor
@@ -64,6 +65,7 @@ De esta forma se obtiene información detallada: puertos, volúmenes, rutas inte
 docker stop PPSUnidad0-Tarea_Mariollorente
 docker rm PPSUnidad0-Tarea_Mariollorente
 ```
+![captura docker](img/img19.PNG)
 ---
 
 ## Conclusion

@@ -21,7 +21,7 @@ Esta tarea tiene como finalidad aplicar de forma práctica los contenidos vistos
 - Automatización mediante **GitHub Actions**  
 - Publicación de documentación con **GitHub Pages**  
 - Generación y despliegue de un contenedor **NGINX** con Docker  
-- Documentación clara siguiendo buenas prácticas secDevOps  
+- Documentación clara siguiendo buenas prácticas DevsecOps  
 
 ---
 
@@ -57,17 +57,5 @@ A lo largo de esta práctica se realizaron las siguientes tareas:
 3. Desarrollo de un **workflow GitHub Actions** que automatiza la creación de documentación con MkDocs.  
 4. Configuración de **GitHub Pages** para publicar la web del proyecto.  
 5. Creación y despliegue de un contenedor **NGINX** que sirve la documentación generada utilizando bind-mount desde el repositorio.  
-6. Elaboración de conclusiones basadas en el manejo de herramientas DevSecOps y contenedores.
 
----
 
-## **Cómo navegar por la documentación**
-
-Puedes usar el menú superior de MkDocs o los enlaces del índice anterior para acceder a cada sección.  
-Cada documento incluye imágenes, comandos y explicaciones detalladas con los pasos realizados.
-
----
-
-## ¡Comencemos!
-
-Selecciona en el índice la parte que te interese y explora el proceso completo de la tarea.
