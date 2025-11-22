@@ -33,8 +33,3 @@ La creación del WorkFlow de GitHub Actions ha sido la práctica más directa de
 
 Finalmente, la configuración de GitHub Pages para servir el resultado del WorkFlow ha cerrado el ciclo. Demuestra que la documentación, lejos de ser un proceso post-desarrollo, es una parte intrínseca y automatizada del ciclo de vida del software, haciéndola accesible de forma inmediata a través de la URL pública.
 
----
-
-## Conclusión General
-
-La tarea ha superado la mera enumeración de herramientas, integrándolas en un flujo de trabajo realista: **Código (Python) -> Versionado (Git) -> Documentación (Markdown/MkDocs) -> Automatización (GitHub Actions) -> Despliegue Público (GitHub Pages) -> Despliegue Local Replicable (Docker)**. Esta interconexión es el verdadero aprendizaje de la unidad.
